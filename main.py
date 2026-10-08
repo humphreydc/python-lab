@@ -1,2 +1,4 @@
 str = "Hellow World!"
-print(str)
+num = 2
+
+print(f"{str} & {num}")
