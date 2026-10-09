@@ -8,3 +8,6 @@ if is_allowed:
   print(f"{str} & {num}")
 else:
   print("You cannot pass!")
+
+for item in items:
+  print(item)
