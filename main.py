@@ -13,4 +13,8 @@ else:
 for item in items:
   print(item)
 
-print("End of code...")
+print("""
+End of code...
+continue with functions and classes
+import too
+""")
