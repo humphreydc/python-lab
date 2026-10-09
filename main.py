@@ -9,5 +9,6 @@ if is_allowed:
 else:
   print("You cannot pass!")
 
+#for loop for items list
 for item in items:
   print(item)
