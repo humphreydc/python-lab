@@ -2,4 +2,7 @@ str = "Hellow World!"
 num = 2
 is_allowed = True
 
-print(f"{str} & {num}")
+if is_allowed:
+  print(f"{str} & {num}")
+else:
+  print("You cannot pass!")
