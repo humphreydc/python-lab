@@ -19,4 +19,4 @@ continue with functions and classes
 import too
 """)
 
-states = ("active")
+states = ("Active", "Inactive", "Pending")
