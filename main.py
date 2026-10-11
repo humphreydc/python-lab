@@ -18,3 +18,5 @@ End of code...
 continue with functions and classes
 import too
 """)
+
+states = ()
