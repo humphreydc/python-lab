@@ -20,3 +20,5 @@ import too
 """)
 
 states = ("Active", "Inactive", "Pending")
+
+print(states)
