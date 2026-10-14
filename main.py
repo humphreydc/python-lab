@@ -1,5 +1,5 @@
 str = "Hellow World!"
-num = 2
+num = 4
 is_allowed = True
 items = ["Apple", "Banana", "Orange"]
 
