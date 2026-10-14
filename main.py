@@ -22,3 +22,4 @@ import too
 states = ("Active", "Inactive", "Pending")
 
 print(states)
+print("These are the states of the program")
