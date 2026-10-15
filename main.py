@@ -23,3 +23,9 @@ states = ("Active", "Inactive", "Pending")
 
 print(states)
 print("These are the states of the program")
+
+dit = {
+  key: "yes",
+  num: 4,
+  check: False
+}
