@@ -29,3 +29,5 @@ dit = {
   num: 4,
   check: False
 }
+
+print(dit)
