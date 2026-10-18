@@ -1,3 +1,4 @@
+PI = 3.14
 str = "Hellow World!"
 num = 4
 is_allowed = True
@@ -31,3 +32,4 @@ dit = {
 }
 
 print(dit)
+
