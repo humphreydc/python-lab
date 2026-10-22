@@ -17,7 +17,7 @@ for item in items:
 print("""
 End of code...
 continue with functions and classes
-import too
+import too.
 """)
 
 states = ("Active", "Inactive", "Pending")
