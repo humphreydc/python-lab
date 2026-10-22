@@ -1,5 +1,5 @@
 PI = 3.14
-str = "Hellow World!"
+str = "Hello World!"
 num = 4
 is_allowed = True
 items = ["Apple", "Banana", "Orange"]
