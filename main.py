@@ -2,7 +2,7 @@ PI = 3.14
 str = "Hello World!"
 num = 6
 is_allowed = True
-items = ["Apple", "Banana", "Orange", "Sayote"]
+items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon"]
 
 #if-else statement
 if is_allowed:
