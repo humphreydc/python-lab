@@ -33,3 +33,6 @@ dit = {
 
 print(dit)
 print("This is the second half of the program.")
+
+def compute():
+  pass
