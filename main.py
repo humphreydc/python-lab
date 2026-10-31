@@ -1,7 +1,7 @@
 PI = 3.14
 str = "Hello World!"
 num = 67
-is_allowed = True
+is_allowed = False
 items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon"]
 
 #if-else statement
