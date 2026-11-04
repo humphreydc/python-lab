@@ -2,6 +2,7 @@ PI = 3.14
 str = "Hellow World!"
 num = 6
 is_allowed = False
+is_active = True
 items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon", "Peach"]
 
 #if-else statement
