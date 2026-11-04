@@ -1,6 +1,6 @@
 PI = 3.14
 str = "Hellow World!"
-num = 67
+num = 6
 is_allowed = False
 items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon", "Peach"]
 
