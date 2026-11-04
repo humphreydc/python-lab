@@ -13,7 +13,7 @@ while True:
         print("Grade: 10% Attendance, 50% Performance Task, 40% Exams.")
         input("\nPress Enter to return to the main menu...")
     elif choice == "3":
-        print("Exiting Grade Tool...")
+        print("Exiting Grading Tool...")
         break
     else:
         print("Please enter a valid option!")
