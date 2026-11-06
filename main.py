@@ -1,5 +1,5 @@
 PI = 3.14
-str = "Hellow World!"
+str = "Hello World!"
 num = 7
 is_allowed = False
 is_active = True
