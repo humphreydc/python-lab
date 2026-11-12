@@ -3,7 +3,7 @@ str = "Hello World!"
 num = 7
 is_allowed = False
 is_active = True
-items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon", "Peach", "Kiwi", "Pomegranate"]
+items = ["Apple", "Banana", "Orange", "Sayote", "Watermelon", "Peach", "Kiwi", "Pomegranate", "Dalandan"]
 
 #if-else statement
 if is_allowed:
