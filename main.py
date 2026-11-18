@@ -29,7 +29,8 @@ print("These are the states of the program")
 dit = {
   key: "yes",
   num: 4,
-  check: False
+  check: False,
+  active: True
 }
 
 print(dit)
