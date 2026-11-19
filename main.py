@@ -29,6 +29,7 @@ print("These are the states of the program")
 dit = {
   key: "yes",
   num: 4,
+  group: ["Water", "Fish", "Bread"],
   check: False,
   active: True
 }
